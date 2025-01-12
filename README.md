@@ -1,6 +1,6 @@
 # igniteshoesapp
 
-# Projeto: Notificações Push com React Native e OneSignal
+## Projeto: Notificações Push com React Native e OneSignal
 
 Este projeto tem como objetivo explorar a implementação de **Notificações Push** em aplicações mobile utilizando **React Native**, integrando o **Firebase Cloud Messaging (FCM)** e o **OneSignal**. O projeto cobre desde a configuração inicial de serviços de notificação para Android e iOS até a criação de filtros personalizados e tags para gerenciar e segmentar o envio de notificações.
 
